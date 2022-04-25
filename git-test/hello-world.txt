@@ -1,1 +1,2 @@
 Hola Odin , este es mi primer comentario. Estoy probando el flujo de trabajo en git
+Esta es mi segunda línea dónde agrego un comentario aleatorio: DESEO MUCHO CONVERTIRME EN UN GRAN DESARROLLADOR WEB! por amor , por pasión , para ayudar y para darle un sentido a mi vida! Mi objetivo es pertenencer a una gran empresa, conseguir un buen trabajo y buenos ingresos; Quiero que mi familia y yo estemos bien! 
